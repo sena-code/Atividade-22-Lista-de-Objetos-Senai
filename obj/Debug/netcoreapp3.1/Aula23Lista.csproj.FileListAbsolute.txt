@@ -1,0 +1,13 @@
+C:\Users\Vinicius\Desktop\Aula23Lista\bin\Debug\netcoreapp3.1\Aula23Lista.exe
+C:\Users\Vinicius\Desktop\Aula23Lista\bin\Debug\netcoreapp3.1\Aula23Lista.deps.json
+C:\Users\Vinicius\Desktop\Aula23Lista\bin\Debug\netcoreapp3.1\Aula23Lista.runtimeconfig.json
+C:\Users\Vinicius\Desktop\Aula23Lista\bin\Debug\netcoreapp3.1\Aula23Lista.runtimeconfig.dev.json
+C:\Users\Vinicius\Desktop\Aula23Lista\bin\Debug\netcoreapp3.1\Aula23Lista.dll
+C:\Users\Vinicius\Desktop\Aula23Lista\bin\Debug\netcoreapp3.1\Aula23Lista.pdb
+C:\Users\Vinicius\Desktop\Aula23Lista\obj\Debug\netcoreapp3.1\Aula23Lista.csprojAssemblyReference.cache
+C:\Users\Vinicius\Desktop\Aula23Lista\obj\Debug\netcoreapp3.1\Aula23Lista.AssemblyInfoInputs.cache
+C:\Users\Vinicius\Desktop\Aula23Lista\obj\Debug\netcoreapp3.1\Aula23Lista.AssemblyInfo.cs
+C:\Users\Vinicius\Desktop\Aula23Lista\obj\Debug\netcoreapp3.1\Aula23Lista.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\Desktop\Aula23Lista\obj\Debug\netcoreapp3.1\Aula23Lista.dll
+C:\Users\Vinicius\Desktop\Aula23Lista\obj\Debug\netcoreapp3.1\Aula23Lista.pdb
+C:\Users\Vinicius\Desktop\Aula23Lista\obj\Debug\netcoreapp3.1\Aula23Lista.genruntimeconfig.cache
